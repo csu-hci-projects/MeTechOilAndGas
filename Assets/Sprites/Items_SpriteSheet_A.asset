@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: Items_SpriteSheet_A
+  m_EditorClassIdentifier: 
+  hashCode: 817372257
+  material: {fileID: 21091532833301784}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 768
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: WifiIcon_Sprite
+    hashCode: 860964908
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300000, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 1
+    x: 256
+    y: 768
+    width: 256
+    height: 256
+    xOffset: -10
+    yOffset: -10.1
+    xAdvance: 256
+    scale: 3
+    name: TriangleC_Sprite
+    hashCode: 554023547
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300002, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 2
+    x: 512
+    y: 768
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: TriangleB_Sprite
+    hashCode: -829360998
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300004, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 3
+    x: 768
+    y: 768
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: TriangleA_Sprite
+    hashCode: 1427857977
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300006, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 4
+    x: 0
+    y: 512
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: StraightArrow_Sprite
+    hashCode: 1451063017
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300008, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 5
+    x: 256
+    y: 512
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: SquaredCrossA_Sprite
+    hashCode: -33086452
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300010, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 6
+    x: 512
+    y: 512
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: DiagCrossA_Sprite
+    hashCode: 178339298
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300012, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 7
+    x: 768
+    y: 512
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ExplosiveIcon_Sprite
+    hashCode: -747173478
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300014, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 8
+    x: 0
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: HighTI_Sprite
+    hashCode: -1631329691
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300016, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 9
+    x: 256
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 180.8
+    xAdvance: 210.4
+    scale: 2
+    name: DangerCloseB_Sprite
+    hashCode: 1578860249
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300018, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 10
+    x: 512
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: DangerCloseA_Sprite
+    hashCode: 1724388282
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300020, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 11
+    x: 768
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: GhostIcon_Sprite
+    hashCode: 1947276762
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300022, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 12
+    x: 0
+    y: 0
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: CrossB_Sprite
+    hashCode: 451341482
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300024, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 13
+    x: 256
+    y: 0
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: CrossA_Sprite
+    hashCode: 305813449
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300026, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 14
+    x: 512
+    y: 0
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: GPSArrow
+    hashCode: -683381251
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300028, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  - id: 15
+    x: 768
+    y: 0
+    width: 256
+    height: 256
+    xOffset: 10.4
+    yOffset: 300.7
+    xAdvance: 256
+    scale: 3
+    name: ConsoleArrow_Sprite
+    hashCode: -1450636968
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300030, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+  fallbackSpriteAssets: []
+--- !u!21 &21091532833301784
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e875f7d625a0b0f4bb1d8a67ae30cd1f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
