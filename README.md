@@ -23,3 +23,6 @@ Checkpoint-1
       you tube:https://youtu.be/EqTa-bI8fP8
       progress remaining: HandDraggable, Newtonsoft, Gaze Manager
       
+ CheckPoint 5:
+      you tube:https://youtu.be/1CS3-Qj7NPA
+      Progress remaining: Speech recongition not able to recognized in Hololense.
